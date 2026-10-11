@@ -1,7 +1,4 @@
-# IS 665 Group 3 - Student Version (v2): Memory-malware detection with logistic regression
-
-A small, easy-to-read project. **One model only: logistic regression.**
-The report is made by filling in the professor's own Word template, so its formatting is unchanged.
+# IS 665 Group 3 - Memory-malware detection with logistic regression
 
 ## How to run
 1. Install Python packages:  `pip install -r requirements.txt`
@@ -26,4 +23,3 @@ The report is made by filling in the professor's own Word template, so its forma
 - **Split B** = whole malware families are hidden from training, so the model is tested on malware it has never seen.
 
 Outputs: `results/` (numbers as JSON, charts, data dictionary), `data/processed/` (cleaned data and splits).
-The test part is never used in this deliverable.

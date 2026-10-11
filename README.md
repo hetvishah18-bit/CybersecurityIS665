@@ -1,4 +1,4 @@
-# IS 665 Group 3 - Memory-malware detection with logistic regression
+# IS 665 Group 3 - Memory Detection in Memory Dumps
 
 ## How to run
 1. Install Python packages:  `pip install -r requirements.txt`
